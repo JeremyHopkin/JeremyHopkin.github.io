@@ -1,0 +1,36 @@
+title: Yuxuan Sun's Homepage
+page-top-title: Yuxuan Sun
+top-section-bg-text: Computer Science
+backgrounds:
+  - static/assets/background/background_0.jpeg
+  - static/assets/background/background_1.jpeg
+background-interval-ms: 7000
+background-overlay: 0.52
+copyright-text: '&copy; Yuxuan Sun 2026. All Rights Reserved.'
+github-link:
+  text: Github
+  href: https://github.com/JeremyHopkin
+license-link:
+  text: License
+  href: https://github.com/JeremyHopkin/JeremyHopkin.github.io/blob/main/LICENSE
+sections:
+  - id: home
+    nav: HOME
+    title: HOME
+    href: '#page-top'
+  - id: experience
+    nav: EXPERIENCE
+    title: EXPERIENCE
+    icon: bi-briefcase-fill
+  - id: projects
+    nav: PROJECTS
+    title: PROJECTS
+    icon: bi-gear-fill
+  - id: skills
+    nav: SKILLS
+    title: SKILLS
+    icon: bi-tools-fill
+  - id: contact
+    nav: CONTACT
+    title: CONTACT
+    icon: bi-envelope-fill
